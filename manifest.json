@@ -1,0 +1,9 @@
+{
+  "name": "Registro de Embalagens Vazias",
+  "short_name": "Emb. Vazias",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FF7A00",
+  "theme_color": "#FF7A00",
+  "icons": []
+}
